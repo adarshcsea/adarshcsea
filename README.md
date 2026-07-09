@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Adarsh 👋
 
-<!--
-**adarshcsea/adarshcsea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Computer Science Engineering Student
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- C
+- Java
+- Git & GitHub
+- Linux
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Crack GATE
+- Become a Software Engineer
+- Contribute to Open Source
+- Build Real-World Projects
+
+## 💻 Tech Stack
+- C
+- Java
+- Git
+- GitHub
+- Linux
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/adarsh-rai-371a6a412
+- LeetCode: https://leetcode.com/u/Adarsh___Rai/
