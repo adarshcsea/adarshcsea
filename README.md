@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Adarsh+%F0%9F%91%8B;BE+CSE+Student;Learning+C%2C+Java+%26+DSA;Open+Source+Contributor;Vibe+Coder+For+Now;Building+Projects+Every+Week" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Adarsh+%F0%9F%91%8B;BE+CSE+Student;Learning+C%2C+Java+%26+DSA;Public+Project+Contributor;Vibe+Coding+While+Learning;Building+Projects+Every+Week" />
 </p>
 🎓 BE Computer Science Engineering Student
 
