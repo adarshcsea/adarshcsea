@@ -34,7 +34,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adarshcsea/adarshcsea/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
+  <img src="https://raw.githubusercontent.com/adarshcsea/adarshcsea/main/profile-summary-card-output/2077/0-profile-details.svg"/>
 </p>
 
 <p align="center">
