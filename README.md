@@ -42,11 +42,6 @@
   <img width="49%" src="https://raw.githubusercontent.com/adarshcsea/adarshcsea/main/profile-summary-card-output/2077/4-productive-time.svg"/>
 </p>
 
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=adarshcsea&theme=github-dark&hide_border=true"/>
 
 </p>
 
