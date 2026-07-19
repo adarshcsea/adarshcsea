@@ -38,8 +38,8 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/adarshcsea/adarshcsea/main/profile-summary-card-output/github_dark/3-stats.svg"/>
-  <img width="49%" src="https://raw.githubusercontent.com/adarshcsea/adarshcsea/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
+  <img width="49%" src="https://raw.githubusercontent.com/adarshcsea/adarshcsea/main/profile-summary-card-output/github_2077/3-stats.svg"/>
+  <img width="49%" src="https://raw.githubusercontent.com/adarshcsea/adarshcsea/main/profile-summary-card-output/github_2077/4-productive-time.svg"/>
 </p>
 
 ## 🔥 Contribution Streak
