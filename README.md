@@ -24,11 +24,31 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adarsh-rai-371a6a412)
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/adarsh-rai-371a6a412">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJ2cXU5YzN2djQ3cDM1cGlrOTJranF5aGE4M2R3ZGU0ZnlvNGo4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4U6yzByjQg8ZIGCdDF/giphy.gif" height="60">
+</a>
+</td>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Adarsh___Rai/)
+<td align="center">
+<a href="https://github.com/adarshcsea">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdpN2cxc3gzdDYwdzF2eDhrZWxuMnMxMzdiejNoYTQ4ZW8zZm11cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" height="60">
+</a>
+</td>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/adarshcsea)
+<td align="center">
+<a href="https://leetcode.com/u/Adarsh___Rai/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode">
+</a>
+</td>
+</tr>
+</table>
+
+
+
+
 ---
 
 ## 📊 GitHub Stats
