@@ -53,9 +53,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adarshcsea&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true"/>
-</p>
 
 <p align="center">
   <img width="49%" src="https://raw.githubusercontent.com/adarshcsea/adarshcsea/main/profile-summary-card-output/chartreuse_dark/3-stats.svg"/>
