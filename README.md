@@ -40,9 +40,10 @@
 
 <td align="center">
 <a href="https://leetcode.com/u/Adarsh___Rai/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdpN2cxc3gzdDYwdzF2eDhrZWxuMnMxMzdiejNoYTQ4ZW8zZm11cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" height="60">
 </a>
 </td>
+
 </tr>
 </table>
 
