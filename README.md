@@ -40,7 +40,8 @@
 
 <td align="center">
 <a href="https://leetcode.com/u/Adarsh___Rai/">
-<img src="https://giphy.com/gifs/HLP6yKpwEEtjSMsXKC" height="60">
+<img src="https://media.giphy.com/media/HLP6yKpwEEtjSMsXKC/giphy.gif
+  " height="60">
 </a>
 </td>
 
