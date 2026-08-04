@@ -28,7 +28,7 @@
 <tr>
 <td align="center">
 <a href="https://www.linkedin.com/in/adarsh-rai-371a6a412">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJ2cXU5YzN2djQ3cDM1cGlrOTJranF5aGE4M2R3ZGU0ZnlvNGo4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4U6yzByjQg8ZIGCdDF/giphy.gif" height="60">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW13c2MzaHNrM3BkYTNpOWh1c2NuejZxMmNoYW4zZTRmY3RscDJ6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RopeNgygwm6aABruU0/giphy.gif" height="60">
 </a>
 </td>
 
