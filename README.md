@@ -67,6 +67,6 @@
 
 ## 🏅 Contribution Highlights
 
-![Pull Requests](https://img.shields.io/badge/Merged%20PRs-5-success?style=for-the-badge)
+![Pull Requests](https://img.shields.io/badge/Merged%20PRs-8-success?style=for-the-badge)
 
 ![](https://komarev.com/ghpvc/?username=adarshcsea&color=blue)
